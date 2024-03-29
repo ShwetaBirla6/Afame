@@ -1,1 +1,1 @@
-# Afame
+This Power BI dashboard provides a comprehensive analysis of US sales data for one month. This interactive dashboard allows users to explore and derive insights from the data effortlessly. The sales data has been visualized in an intuitive manner to facilitate decision-making and identify trends.
